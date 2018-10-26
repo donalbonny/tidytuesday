@@ -96,4 +96,7 @@ Want to submit an interesting dataset? Please open an [Issue](https://github.com
 
 [BuzzFeed Data](https://github.com/BuzzFeedNews/everything/blob/master/README.md)
 
+
+[40 registered extensions available to explore](http://www.ggplot2-exts.org/gallery/)
+
 ***
